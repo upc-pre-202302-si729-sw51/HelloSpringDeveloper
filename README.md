@@ -1,5 +1,10 @@
 # Getting Started
 
+## Summary
+This application exposes the /welcome endpoint. This endpoint can accept a name parameter.
+If the name parameter is not provided, the endpoint will return a default message.
+If the name parameter is provided, the endpoint will return a message with the name parameter.
+
 ### Reference Documentation
 
 For further reference, please consider the following sections:
